@@ -1,6 +1,6 @@
 # Data Augmentation View on Graph Convolutional Network and the Proposal of Monte Carlo Graph Learning
 
-This repository is the official implementation of [Data Augmentation View on Graph Convolutional Network and the Proposal of Monte Carlo Graph Learning](url_arxiv).
+This repository is the official implementation of [Data Augmentation View on Graph Convolutional Network and the Proposal of Monte Carlo Graph Learning](https://arxiv.org/abs/2006.13090).
 
 ## Overview
 
